@@ -1,0 +1,14 @@
+{
+  "name": "S_Calculator",
+  "description": "Simple Calculator",
+  "version": "0.0.2",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  },
+  "icons": {
+    "128": "logo.png",
+    "64": "logo.png"
+  }
+}
